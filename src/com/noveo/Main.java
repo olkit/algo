@@ -10,13 +10,14 @@ import com.noveo.binarysearchtree.Task2;
 import com.noveo.binarysearchtree.Task4;
 import com.noveo.binarysearchtree.Task5;
 import com.noveo.binarytree.Task1;
+import com.noveo.hashmap.Task14;
 
 
 public class Main {
 
     public static void main(String[] args) {
 
-        Task task = new Task13();
+        Task task = new Task14();
         task.run();
     }
 }
