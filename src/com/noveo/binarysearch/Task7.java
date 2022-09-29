@@ -4,7 +4,7 @@ import com.noveo.Task;
 import com.noveo.model.TreeNode;
 
 /**
- * @see <a href="https://leetcode.com/problems/binary-search">Problem page</a>
+ * @see <a href="https://leetcode.com/problems/search-in-rotated-sorted-array/">Problem page</a>
  */
 public class Task7 implements Task {
 
